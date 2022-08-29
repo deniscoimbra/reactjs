@@ -1,2 +1,2 @@
 # reactjs
- Curso de React da Alura
+ Curso de React
